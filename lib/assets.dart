@@ -19,7 +19,7 @@ class _AssetsIcons {
 class _AssetsImages {
   _AssetsImages._();
 
-
   final imSplashPNG = 'assets/images/im_splash.png';
+  final imCampaignsPNG = 'assets/images/im_campaigns.png';
 
 }
