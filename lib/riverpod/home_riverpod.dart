@@ -27,6 +27,9 @@ HomeProductsModel hotDeals =
         price: 1299,
         star: 4.9,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: false),
     Product(
         image: Assets.images.imW1PNG,
@@ -34,6 +37,9 @@ HomeProductsModel hotDeals =
         price: 859,
         star: 4.7,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: true),
     Product(
         image: Assets.images.imP1PNG,
@@ -41,6 +47,9 @@ HomeProductsModel hotDeals =
         price: 1199,
         star: 5.0,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: false),
   ]);
 
@@ -52,6 +61,9 @@ HomeProductsModel hotDeals =
         price: 1000,
         star: 4.4,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: true),
     Product(
         image: Assets.images.imW2PNG,
@@ -59,6 +71,9 @@ HomeProductsModel hotDeals =
         price: 1099,
         star: 4.9,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: false),
     Product(
         image: Assets.images.imP2PNG,
@@ -66,6 +81,9 @@ HomeProductsModel hotDeals =
         price: 1499,
         star: 5.0,
         colors: [Colors.cyan, Colors.deepPurple, Colors.green],
+        descTitle: "Get Apple TV+ free for a year",
+        descDetail:
+            "iPad Air. With a stunning 10.9-inch Liquid Retina display and True Tone for a more comfortable viewing experience.1 Powered by the new A14 Bionic chip with Neural Engine for 4K video editing, music creation, and next-level games - all with ease. Featuring fast, easy, and secure Touch ID, advanced cameras, USB-C, and support for versatile accessories, including Magic Keyboard and Apple Pencil (2nd generation)6.",
         isSaved: true),
   ]);
 }
