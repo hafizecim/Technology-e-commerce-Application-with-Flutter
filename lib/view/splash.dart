@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:grock/grock.dart';
 import 'package:youtube_ecommerce_app/assets.dart';
 import 'package:youtube_ecommerce_app/constant/constant.dart';
+import 'package:youtube_ecommerce_app/riverpod/base_scaffold_riverpod.dart';
+import 'package:youtube_ecommerce_app/view/base_scaffold.dart';
 import 'package:youtube_ecommerce_app/view/home.dart';
 
 class Splash extends StatefulWidget {
@@ -19,7 +21,7 @@ class _SplashState extends State<Splash> {
     Future.delayed(const Duration(seconds: 2),() {
       // 2 saniye sonra Home sayfasına yönlendirir
       // Grock.toRemove(Home()); // Bu satır Grock ile yönlendirme yap
-      Grock.toRemove(Home()); // 2 saniye sonra Home sayfasına yönlendirir
+      Grock.toRemove(BaseScaffold()); // 2 saniye sonra Home sayfasına yönlendirir
      
     });
     super.initState();

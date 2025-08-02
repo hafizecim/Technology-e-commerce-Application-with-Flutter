@@ -12,6 +12,12 @@ class _AssetsIcons {
 
   final icDrawerSVG = 'assets/icons/ic_drawer.svg';
   final icSearchSVG = 'assets/icons/ic_search.svg';
+  final icBottomHomeSVG = 'assets/icons/ic_bottom_home.svg';
+  final icBottomSaveSVG = 'assets/icons/ic_bottom_save.svg';
+  final icBottomCategoriesSVG = 'assets/icons/ic_bottom_categories.svg';
+  final icBottomProfileSVG = 'assets/icons/ic_bottom_profile.svg';
+  final icBottomCartSVG = 'assets/icons/ic_bottom_cart.svg';
+
 
 }
 

@@ -21,7 +21,6 @@ class _HomeState extends ConsumerState<Home> {
     var watch = ref.watch(homeRiverpod);
     var read = ref.read(homeRiverpod);
     return Scaffold(
-      appBar: CustomAppbar(),
       body: ListView(
         children: [
           campaigns(read, watch),
